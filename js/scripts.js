@@ -1,6 +1,3 @@
-function checkOnclickEvent(param) {
-  console.log(param);
-}
 var list = document.getElementById('list');
 var add = document.getElementById('addElem');
 
